@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120">
+<style>.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:Consolas,'Fira Code','DejaVu Sans Mono',monospace}.fade{opacity:0;animation:f .6s ease forwards}@keyframes f{to{opacity:1}}</style>
+<g class="fade" style="animation-delay:0.0s">
+<rect x="1" y="1" width="236" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="1" y="1" width="4" height="118" rx="2" fill="#5BD69B"/>
+<text x="24" y="54" class="s" font-size="34" font-weight="700" fill="#5BD69B">2×</text>
+<text x="24" y="80" class="s" font-size="15" font-weight="600" fill="#e6edf3">Matrícula d'Honor</text>
+<text x="24" y="100" class="s" font-size="12.5" fill="#8b949e">1st year, 10/10</text>
+</g>
+<g class="fade" style="animation-delay:0.15s">
+<rect x="255" y="1" width="236" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="255" y="1" width="4" height="118" rx="2" fill="#5BD69B"/>
+<text x="278" y="54" class="s" font-size="34" font-weight="700" fill="#5BD69B">4,092</text>
+<text x="278" y="80" class="s" font-size="15" font-weight="600" fill="#e6edf3">clinical trials</text>
+<text x="278" y="100" class="s" font-size="12.5" fill="#8b949e">analysed from the API</text>
+</g>
+<g class="fade" style="animation-delay:0.3s">
+<rect x="509" y="1" width="236" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="509" y="1" width="4" height="118" rx="2" fill="#5BD69B"/>
+<text x="532" y="54" class="s" font-size="34" font-weight="700" fill="#5BD69B">NUS</text>
+<text x="532" y="80" class="s" font-size="15" font-weight="600" fill="#e6edf3">Singapore</text>
+<text x="532" y="100" class="s" font-size="12.5" fill="#8b949e">AI &amp; ML (Computer Vision)</text>
+</g>
+<g class="fade" style="animation-delay:0.44999999999999996s">
+<rect x="763" y="1" width="236" height="118" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="763" y="1" width="4" height="118" rx="2" fill="#5BD69B"/>
+<text x="786" y="54" class="s" font-size="34" font-weight="700" fill="#5BD69B">2027</text>
+<text x="786" y="80" class="s" font-size="15" font-weight="600" fill="#e6edf3">open to</text>
+<text x="786" y="100" class="s" font-size="12.5" fill="#8b949e">ML &amp; SWE internships</text>
+</g>
+</svg>
